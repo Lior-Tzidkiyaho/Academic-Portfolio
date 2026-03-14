@@ -23,7 +23,7 @@
 **Focus:** Data Science, Python.
 * **Project:** Modeling complex systems to identify bottlenecks and optimize service levels.
 * **Key Skills:** Developed a simulation model using **Python** to analyze queuing systems and improve operational efficiency.
-* **Link:** [**View Live Code & Results on Google Colab**]((https://colab.research.google.com/drive/10QBTpV9KTUsJ0mzMxhTGe0aDEyabT53P?usp=sharing))
+* **Link:** [**View Live Code & Results on Google Colab**](https://colab.research.google.com/drive/10QBTpV9KTUsJ0mzMxhTGe0aDEyabT53P?usp=sharing)
 
 ---
 
