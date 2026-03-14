@@ -3,7 +3,7 @@
 
 ---
 
-## 📋 1. Organizational Characterization & System Design
+## 1. Organizational Characterization & System Design
 **Focus:** Product Management, Systems Analysis.
 * **Project:** Comprehensive analysis of an existing organization to identify operational gaps.
 * **Key Work:** Designed an end-to-end technological solution including **Process Mapping**, **ERD (Entity-Relationship Diagrams)**, and **Functional Requirements**.
@@ -11,7 +11,7 @@
 
 ---
 
-## 📊 2. Database Design & SQL Analysis
+## 2. Database Design & SQL Analysis
 **Focus:** Data Engineering, SQL.
 * **Project:** Developing and querying a complex relational database.
 * **Key Skills:** Writing advanced **SQL queries** (Joins, Aggregations) to support business decision-making.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 3. System Simulation & Optimization (Python)
+## 3. System Simulation & Optimization (Python)
 **Focus:** Data Science, Python.
 * **Project:** Modeling complex systems to identify bottlenecks and optimize service levels.
 * **Key Skills:** Developed a simulation model using **Python** to analyze queuing systems and improve operational efficiency.
@@ -27,6 +27,6 @@
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 * **LinkedIn:** www.linkedin.com/in/lior-tzidkiyaho
 * **Email:** Liort3011@gmail.com   
