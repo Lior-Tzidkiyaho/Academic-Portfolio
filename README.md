@@ -15,7 +15,7 @@
 **Focus:** Data Engineering, SQL.
 * **Project:** Developing and querying a complex relational database.
 * **Key Skills:** Writing advanced **SQL queries** (Joins, Aggregations) to support business decision-making.
-* **File:** [עבודה בבסיסי נתונים .pdf](עבודה בבסיסי נתונים .pdf)
+* **File:** [SQL_Database_Analysis.pdf](SQL_Database_Analysis.pdf)
 
 ---
 
