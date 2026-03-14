@@ -29,6 +29,7 @@ Key Skills: Developed a simulation model using Python to analyze queuing systems
 File: קבוצה 10 סימולציה.pdf
 
 Contact Me
-LinkedIn: linkedin.com/in/lior-tzidkiyaho  
+
+LinkedIn: www.linkedin.com/in/lior-tzidkiyaho
 
 Email: Liort3011@gmail.com   
